@@ -1,0 +1,23 @@
+{
+  "name": "php-node-chat",
+  "version": "1.0.0",
+  "description": "Sistema de teste de chat",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inobrega/php-node-chat.git"
+  },
+  "author": "Ilson Nobrega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inobrega/php-node-chat/issues"
+  },
+  "homepage": "https://github.com/inobrega/php-node-chat"
+}
